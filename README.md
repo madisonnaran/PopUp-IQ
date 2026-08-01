@@ -21,7 +21,7 @@ Each neighborhood gets a score from 0–100 on each of these, then they're combi
 | NYPD Complaint Data (Year to Date) | NYC Open Data — filtered to noise/safety complaints, ~15 months of data | Measure risk and noise level by area |
 | 2020 Neighborhood Tabulation Areas (NTAs) | NYC Dept. of City Planning | Defines the neighborhood boundaries I used to group everything |
 
-**Note:** the raw NYPD complaint file is about 76MB, too big to include in this repo. I included the cleaned, filtered version instead (`cleaned_complaints.csv`) — the original can be downloaded from [NYC Open Data](https://data.cityofnewyork.us/).
+**Note:** the raw NYPD complaint file is about 76MB, too big to include in this repo. I included the cleaned, filtered version instead (`cleaned_complaints.csv`)
 
 ## How it works
 
